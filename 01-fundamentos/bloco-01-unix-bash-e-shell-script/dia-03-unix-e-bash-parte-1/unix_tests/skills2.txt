@@ -1,0 +1,8 @@
+internet
+unix
+bash
+shell
+mouse
+linux
+comandos
+frases
