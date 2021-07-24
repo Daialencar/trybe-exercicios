@@ -1,0 +1,39 @@
+h1 {
+    color: orange ;
+    font-family: sans-serif;
+    font-size: 65px;
+  }
+  p {
+    font-weight: 600;
+    font-size: 3em;
+  }
+  
+  #list-ordem {
+    background-color: crimson;
+  }
+  
+  #paragrafo {
+    background-color: darkmagenta;
+  }
+  
+  .list-style {
+    background-color: deeppink;
+  }
+  body {
+    font-size: 16px;
+    font-style: italic;
+    line-height: 45px;
+    text-align: justify;
+  }
+  ul {
+    color: greenyellow;
+  }
+  #one {
+    background-color: black;
+  }
+  #two {
+    background-color: coral;
+  }
+  #tree{
+    background-color: darksalmon;
+  } 
