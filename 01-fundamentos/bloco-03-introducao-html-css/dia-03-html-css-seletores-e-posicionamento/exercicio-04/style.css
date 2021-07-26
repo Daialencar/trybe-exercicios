@@ -1,0 +1,13 @@
+ol {
+  background-color: yellow;
+}
+
+
+h1, h2,h3 {
+  color: red;
+border: black solid 1px;
+}
+
+li { 
+  font-size: 20px;
+}
